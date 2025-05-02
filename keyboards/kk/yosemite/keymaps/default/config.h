@@ -10,4 +10,4 @@
 #define ENCODER_B_PINS { B4 }
 #define ENCODER_RESOLUTION 4
 
-#define LED_CAPS_LOCK_PIN { F0 }
+#define LED_CAPS_LOCK_PIN F0 
